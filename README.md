@@ -20,7 +20,5 @@ SSAFY 임베디드 로봇 트랙에서 하드웨어와 소프트웨어를 잇는
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr0ved99&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0ved99&layout=compact&theme=radical" height="150px"/>
-</div>
+![My Stats](https://github-readme-stats.vercel.app/api?username=pr0ved99&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr0ved99&layout=compact&theme=radical)
