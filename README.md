@@ -1,57 +1,57 @@
-# 👋 안녕하세요! 데이터 기반의 문제 해결을 지향하는 임베디드 개발자 이영현입니다.
+# 🛠️ Bridging Theory and Implementation
+### Hardware Precision meets Software Efficiency
 
-전자공학 전공의 **수학적 모델링 역량**과 **하드웨어 설계 지식**을 바탕으로, 효율적인 임베디드 시스템과 알고리즘을 구축합니다. SSAFY 임베디드 로봇 트랙에서 하드웨어와 소프트웨어를 잇는 정밀한 제어 시스템을 연구하고 있습니다.
+안녕하세요, **이론의 정밀함을 코드의 효율로 증명하는** 임베디드 개발자 이영현입니다. 
+저는 전자공학의 탄탄한 물리적 이해를 바탕으로, 복잡한 시스템의 논리적 결함을 찾아내고 최적의 알고리즘으로 해결하는 과정을 즐깁니다.
 
 ---
 
-### 🛠 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+## 💎 Core Pillars: Why Me?
+
+### 01. Mathematical Precision (전자공학의 깊이)
+단순한 코딩을 넘어, 물리적 현상을 수치 모델링으로 치환하는 역량을 갖추고 있습니다.
+- **졸업연구:** 신호흐름도(SFG) 기반 유전율 산출 알고리즘 설계 및 구현
+- **성과:** 이론적 산출식과 3D 시뮬레이션 데이터 간 **오차율 0.21% 미만(99.79% 정밀도)** 달성
+- **Skills:** `Signal Processing`, `Mathematical Modeling`, `Python (NumPy/Pandas)`
+
+
+
+### 02. Algorithmic Efficiency (삼성 A+ 인증 실력)
+고난도의 로직을 설계하고 최적의 시간 복잡도로 구현하는 능력을 검증받았습니다.
+- **Samsung SW Competency Test A+ Grade** (C++ 기반 알고리즘 최적화)
+- 문제의 본질을 꿰뚫는 분석력으로 임베디드 시스템의 자원 제약을 극복합니다.
+
+### 03. Unstoppable Consistency (성실함의 지표)
+개발자에게 가장 중요한 '지치지 않는 태도'를 러닝을 통해 증명합니다.
+- **Personal Records:** 3km(11:10) / 10km(45:24) / Half(1:46:19)
+- **Mindset:** "어제보다 나은 기록을 위해 매일 달리는 마음으로 코드를 다듬습니다."
+
+---
+
+## 🛠️ Specialized Knowledge Base
+
+### 🛰️ Signal & HW Design (The Foundation)
+- **Communication & Signal:** 신호및시스템, 디지털신호처리, RF집적회로설계, 디지털/통신이론
+- **Processor Design:** SoC설계, HDL응용설계, 마이크로프로세서및실습, 디지털공학
+
+### 🤖 Embedded & Robotics (The Application)
+- **Platforms:** `STM32`, `Raspberry Pi 5`, `Ubuntu 22.04 LTS`
+- **Robotics:** `ROS 2 (Humble)`, `TurtleBot3`, `Dobot Magician`
+- **Communication:** `UART`, `I2C`, `SPI`, `Modbus TCP`
+
+---
+
+## 📈 Engineering Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pr0ved99&show_icons=true&theme=default&include_all_commits=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0ved99&layout=compact&theme=default" height="150px"/>
 </div>
 
 ---
 
-### 🎓 Education & Research
-- 🏢 **SSAFY (삼성 청년 AI·SW 아카데미)** | 14기 임베디드 로봇 트랙 (2025.07 ~ )
-- 🏫 **한국외국어대학교** | 전자공학과 학사 (2017.03 - 2025.08)
-
-#### 🔬 Bachelor's Thesis: 신호흐름도(SFG)를 사용한 복합유전체의 유전상수 산출 방법 연구
-- **핵심 기여:** 기존 NRW 기법의 복잡성을 해결하기 위해 신호흐름도 알고리즘을 설계하고 산출 프로세스 정립
-- **SW 구현:** Python(NumPy)을 활용하여 복합 유전체 조성별 유전율 자동 산출 알고리즘 구현
-- **결과:** 시뮬레이션 데이터 대비 알고리즘 산출 결과 **99.79%의 정밀도** 달성
----
-
-### 📚 Relevant Courses
-
-- **Processor & SoC:** 마이크로프로세서및실습, 프로세서응용종합설계, SoC설계, HDL응용설계, 디지털공학
-- **Signal & Comm:** 신호및시스템, 디지털신호처리, 통신이론, 디지털통신, RF집적회로설계
-- **Circuit & HW:** 회로이론, 전기회로및실습, 전자회로설계, 전자회로응용및실습, 전자공학종합설계프로젝트
-- **SW & Math:** 컴퓨터프로그래밍및실습, 공업수학 1/2, 물리및실험 1/2, 공학설계기초
-
----
-
-### 🏆 Key Achievement
-- **삼성 SW 역량 평가 A+**
-
----
-
-### 🏃 Life & Interests
-기술적인 성장만큼이나 신체적, 정신적 에너지를 얻기 위한 활동에도 진심입니다.
-
-* 🏁 **Running**: 한계를 극복하며 꾸준히 기록을 단축하고 있습니다.
-    * **Personal Best**: 3km(11:10) / 10km(45:24) / Half-marathon(1:46:19)
-* ⚽ **Football & Futsal**: 팀 스포츠를 통해 협업과 전략적 사고를 즐깁니다.
-    * **Leadership**: 전자공학과 축구팀 주장 역임 (팀워크 및 소통 역량 함양)
-* 🎮 **Gaming**: 전략적 판단력을 기를 수 있는 War Thunder, World of Tanks를 즐깁니다.
----
-
-### 📫 Contact
-<a href="mailto:eyh125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://solved.ac/eyh125" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-17CE3A?style=flat-square&logo=solved.ac&logoColor=white"/></a>
+## 📫 Connect with Me
+<p align="left">
+  <a href="mailto:eyh125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://solved.ac/eyh125" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-17CE3A?style=flat-square&logo=solved.ac&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Leadership-Football%20Captain-0984E3?style=flat-square&logo=target&logoColor=white"/>
+</p>
