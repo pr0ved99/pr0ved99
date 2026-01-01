@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 데이터 기반의 문제 해결을 지향하는 임베디드 개발자 pr0ved99입니다.
+# 👋 안녕하세요! 데이터 기반의 문제 해결을 지향하는 임베디드 개발자 이영현입니다.
 
 전자공학 전공의 **수학적 모델링 역량**과 **하드웨어 설계 지식**을 바탕으로, 효율적인 임베디드 시스템과 알고리즘을 구축합니다. SSAFY 임베디드 로봇 트랙에서 하드웨어와 소프트웨어를 잇는 정밀한 제어 시스템을 연구하고 있습니다.
 
@@ -26,7 +26,6 @@
 - **핵심 기여:** 기존 NRW 기법의 복잡성을 해결하기 위해 신호흐름도 알고리즘을 설계하고 산출 프로세스 정립
 - **SW 구현:** Python(NumPy)을 활용하여 복합 유전체 조성별 유전율 자동 산출 알고리즘 구현
 - **결과:** 시뮬레이션 데이터 대비 알고리즘 산출 결과 **99.79%의 정밀도** 달성
-
 ---
 
 ### 📚 Relevant Courses
@@ -43,6 +42,16 @@
 
 ---
 
+### 🏃 Life & Interests
+기술적인 성장만큼이나 신체적, 정신적 에너지를 얻기 위한 활동에도 진심입니다.
+
+* 🏁 **Running**: 한계를 극복하며 꾸준히 기록을 단축하고 있습니다.
+    * **Personal Best**: 3km(11:10) / 10km(45:24) / Half-marathon(1:46:19)
+* ⚽ **Football & Futsal**: 팀 스포츠를 통해 협업과 전략적 사고를 즐깁니다.
+    * **Leadership**: 전자공학과 축구팀 주장 역임 (팀워크 및 소통 역량 함양)
+* 🎮 **Gaming**: 전략적 판단력을 기를 수 있는 War Thunder, World of Tanks를 즐깁니다.
+---
+
 ### 📫 Contact
-<a href="mailto eyh125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:eyh125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://solved.ac/eyh125" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-17CE3A?style=flat-square&logo=solved.ac&logoColor=white"/></a>
