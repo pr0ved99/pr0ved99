@@ -26,7 +26,7 @@
       </div>
     </td>
     <td width="50%" align="center">
-      <a href="https://www.youtube.com/watch?v=o8msN-PNJuo">
+      <a href="https://github.com/pr0ved99/stm32-crane-monitor">
         <img src="https://img.youtube.com/vi/o8msN-PNJuo/0.jpg" width="100%" style="border-radius:10px;"/><br/>
         <b>🏗️ Real-time Tower Crane System</b>
       </a>
