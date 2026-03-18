@@ -15,17 +15,6 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/pr0ved99/smart-home-laundry-automation">
-        <img src="https://img.youtube.com/vi/VeqI1FQXKFw/0.jpg" width="100%" style="border-radius:10px;"/><br/>
-        <b>🧺 Smart Home Laundry Automation</b>
-      </a>
-      <p>ROS 2와 STM32를 활용한 무인 세탁물 운반 솔루션</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white"/>
-        <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-      </div>
-    </td>
-    <td width="50%" align="center">
       <a href="https://github.com/pr0ved99/stm32-crane-monitor">
         <img src="https://img.youtube.com/vi/o8msN-PNJuo/0.jpg" width="100%" style="border-radius:10px;"/><br/>
         <b>🏗️ Real-time Tower Crane System</b>
@@ -34,6 +23,17 @@
       <div align="center">
         <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/pr0ved99/smart-home-laundry-automation">
+        <img src="https://img.youtube.com/vi/VeqI1FQXKFw/0.jpg" width="100%" style="border-radius:10px;"/><br/>
+        <b>🧺 Smart Home Laundry Automation</b>
+      </a>
+      <p>ROS 2와 STM32를 활용한 무인 세탁물 운반 솔루션</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white"/>
+        <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
       </div>
     </td>
   </tr>
