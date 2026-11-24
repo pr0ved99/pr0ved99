@@ -2,7 +2,7 @@
 
 **Embedded Robotics & Systems Integration Engineer**
 
-전자공학을 전공하고 로봇의 하위 제어기와 상위 소프트웨어를 연결해 왔습니다. 주행 명령을 보냈을 때 바퀴가 어떻게 움직였는지, 통신이 끊겼을 때 어느 신호에서 멈췄는지를 코드와 계측으로 확인합니다.
+전자공학을 전공하고 STM32로 모터와 그리퍼를 제어하는 펌웨어, 카메라로 위치를 추정하고 목표까지 주행하는 로봇 소프트웨어를 개발해 왔습니다. 주행 명령을 보냈을 때 바퀴가 어떻게 움직였는지, 통신이 끊겼을 때 어느 신호에서 멈췄는지를 코드와 계측으로 확인합니다.
 
 ## 대표 프로젝트 · Tracked Mobile Robot
 
@@ -14,13 +14,13 @@
 
 ## 다른 프로젝트
 
-| 프로젝트 | 제가 다룬 부분 |
+| 프로젝트 | 제가 맡은 역할 |
 | --- | --- |
-| [Echo Turtle Navigation](https://github.com/pr0ved99/echo-turtle-navigation/tree/main/edge) | Jetson의 ROS 2 런타임에서 RealSense D435i 토픽을 내보내고, 노트북의 RTAB-Map으로 이어지는 경로를 구성했습니다. |
-| [PetNer Robot Platform](https://github.com/pr0ved99/petner-robot-platform/tree/main/hardware) | 메카넘 휠 로봇의 전원 분배, STM32 하위 제어기, 상위 컴퓨터의 UART 인터페이스를 설계했습니다. |
-| [세탁물 수거·분류 자동화](https://github.com/pr0ved99/smart-home-laundry-automation) | TurtleBot3, Dobot, 컨베이어와 STM32 그리퍼가 세탁물을 인계하도록 ROS 2와 TCP/IP를 연결했습니다. |
-| [STM32 Crane Monitor](https://github.com/pr0ved99/stm32-crane-monitor) | STM32 센서값을 UART로 읽어 Node.js와 Vue 대시보드에 실시간으로 표시했습니다. |
-| [적재적소 스마트팩토리](https://github.com/pr0ved99/jeokjaejeokso-smart-factory) | AGV·로봇팔·작업지시 상태를 Django API와 WebSocket을 통해 관제 화면에 연결했습니다. |
+| [Echo Turtle Navigation](https://github.com/pr0ved99/echo-turtle-navigation/tree/main/edge) | **VSLAM과 자율주행**을 담당했습니다. RealSense D435i와 RTAB-Map으로 로봇의 위치를 추정하고 지도를 만드는 기능, Nav2로 목표 지점까지 주행하는 기능을 구현했습니다. |
+| [PetNer Robot Platform](https://github.com/pr0ved99/petner-robot-platform/tree/main/hardware) | **로봇 하드웨어와 STM32 펌웨어**를 설계했습니다. 메카넘 휠 로봇의 전원 분배와 모터·센서 배선을 구성하고 STM32 하위 제어기를 개발했습니다. [펌웨어](https://github.com/pr0ved99/petner-robot-platform/tree/main/embedded) |
+| [세탁물 수거·분류 자동화](https://github.com/pr0ved99/smart-home-laundry-automation) | **그리퍼와 STM32 펌웨어**를 설계했습니다. 카메라로 세탁물을 인식하면 그리퍼가 집고, TurtleBot3가 Nav2로 수거 지점까지 운반하는 동작을 구현했습니다. [인식·파지 제어 코드](https://github.com/pr0ved99/smart-home-laundry-automation/blob/main/ros2-turtlebot-nav/final_patrol_grip.py) |
+| [STM32 Crane Monitor](https://github.com/pr0ved99/stm32-crane-monitor) | **단독 개발**했습니다. STM32 센서 수집 펌웨어부터 UART 데이터를 받는 Node.js 서버, 값을 실시간으로 보여주는 Vue 대시보드까지 전체 시스템을 구현했습니다. |
+| [적재적소 스마트팩토리](https://github.com/pr0ved99/jeokjaejeokso-smart-factory/tree/main/sim/arm/scripts) | **로봇팔의 상자 배치와 강화학습**을 담당했습니다. 목표 위치에 상자를 놓는 동작을 먼저 스크립트로 구현한 뒤, 같은 작업을 학습하도록 단계별 강화학습 실험을 진행했습니다. [학습 기록](https://github.com/pr0ved99/jeokjaejeokso-smart-factory/tree/main/sim/arm/docs/training_journal) |
 
 <details>
 <summary>분야별 사용 기술</summary>
@@ -28,9 +28,11 @@
 | 분야 | 기술 |
 | --- | --- |
 | 임베디드·전장 | STM32 HAL, ESP32, UART, CAN, PWM, GPIO, I²C, 모터 제어와 전원 분배 |
-| 로봇·인지 | ROS 2 Humble/Jazzy, Nav2, RTAB-Map, Gazebo, Isaac Sim, D435i, YOLOv8, OpenCV |
+| 자율주행·인지 | ROS 2 Humble/Jazzy, Nav2, RTAB-Map 기반 VSLAM, D435i, YOLOv8, OpenCV |
+| 시뮬레이션·강화학습 | Gazebo 주행 검증, Isaac Sim 로봇팔 상자 배치 실험 |
 | 기구·컴퓨팅 | Onshape, 3D 프린팅, Raspberry Pi, NVIDIA Jetson |
-| 관제·배포 | Node.js, Vue, Django, WebSocket, Socket.IO, PostgreSQL, Docker, Jenkins |
+| 실시간 모니터링 | UART 센서 수집, Node.js, Socket.IO, Vue |
+| 웹·개발 환경 | Django, WebSocket, PostgreSQL, Docker, Jenkins |
 
 </details>
 
