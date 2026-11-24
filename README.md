@@ -10,7 +10,7 @@
 
 [![카펫을 전진하는 궤도 로봇과 브라우저에 표시된 좌우 모터 출력·엔코더 값](https://raw.githubusercontent.com/pr0ved99/TIL/refs/heads/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/docs/portfolio/figures/carpet_drive_80s.jpg)](https://raw.githubusercontent.com/pr0ved99/TIL/refs/heads/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/assets/videos/wifi_mvp/2026-10-24/final/TMR_MVP_Final_2026-10-24.mp4)
 
-**[실물 주행 MP4 · 2분 29초](https://raw.githubusercontent.com/pr0ved99/TIL/refs/heads/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/assets/videos/wifi_mvp/2026-10-24/final/TMR_MVP_Final_2026-10-24.mp4)** · [프로젝트와 소스 코드](https://github.com/pr0ved99/TIL/tree/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot) · [정지 명령 후 두 PWM이 꺼지는 23.50 µs의 파형](https://github.com/pr0ved99/TIL/blob/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/docs/verification/10_STM32_Active_DISARM_Shutdown_Latency_Test_Report_2026-08-04_ko.md)
+**[실물 주행 MP4 · 2분 29초](https://raw.githubusercontent.com/pr0ved99/TIL/refs/heads/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/assets/videos/wifi_mvp/2026-10-24/final/TMR_MVP_Final_2026-10-24.mp4)** · [프로젝트와 소스 코드](https://github.com/pr0ved99/TIL/tree/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot#readme) · [정지 명령 후 두 PWM이 꺼지는 23.50 µs의 파형](https://github.com/pr0ved99/TIL/blob/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/docs/verification/10_STM32_Active_DISARM_Shutdown_Latency_Test_Report_2026-08-04_ko.md)
 
 ## 다른 프로젝트
 
@@ -37,7 +37,7 @@
 ## 학습과 연구
 
 - SSAFY 임베디드 로봇 트랙에서 임베디드·ROS 2 통합 프로젝트를 수행했습니다. [기술 학습 기록](https://github.com/pr0ved99/TIL)
-- 삼성 SW 역량테스트 A+를 취득했습니다. [C++ 알고리즘 풀이](https://github.com/pr0ved99/daily-algorithm) · [solved.ac](https://solved.ac/eyh125)
+- 삼성 SW 역량테스트 A+를 취득했습니다. [C++ 알고리즘 풀이](https://github.com/pr0ved99/daily-algorithm) · [solved.ac](https://solved.ac/profile/eyh125)
 - 졸업 연구에서 SFG 기반 유전율 산출 알고리즘을 설계하고 오차율 0.21% 미만을 달성했습니다.
 
 [이메일 · eyh125@gmail.com](mailto:eyh125@gmail.com)
