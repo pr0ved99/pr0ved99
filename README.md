@@ -8,9 +8,9 @@
 
 브라우저로 조종하는 궤도 로봇을 만들었습니다. ESP32-S3가 무선 명령을 전달하고 STM32F446RE가 좌우 모터의 출력을 결정합니다. 펌웨어와 전장·기구를 통합하고, 카펫에서의 주행과 정지, 엔코더 피드백을 확인했습니다.
 
-[![카펫을 전진하는 궤도 로봇과 브라우저에 표시된 좌우 모터 출력·엔코더 값](https://raw.githubusercontent.com/pr0ved99/TIL/refs/heads/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/docs/portfolio/figures/carpet_drive_80s.jpg)](https://github.com/pr0ved99/TIL/blob/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/assets/videos/wifi_mvp/2026-10-24/final/TMR_MVP_Final_2026-10-24.mp4)
+[![카펫을 전진하는 궤도 로봇과 브라우저에 표시된 좌우 모터 출력·엔코더 값](https://raw.githubusercontent.com/pr0ved99/TIL/refs/heads/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/docs/portfolio/figures/carpet_drive_80s.jpg)](https://raw.githubusercontent.com/pr0ved99/TIL/refs/heads/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/assets/videos/wifi_mvp/2026-10-24/final/TMR_MVP_Final_2026-10-24.mp4)
 
-**[실물 주행 영상 · 2분 29초](https://github.com/pr0ved99/TIL/blob/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/assets/videos/wifi_mvp/2026-10-24/final/TMR_MVP_Final_2026-10-24.mp4)** · [프로젝트와 소스 코드](https://github.com/pr0ved99/TIL/tree/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot) · [정지 명령 후 두 PWM이 꺼지는 23.50 µs의 파형](https://github.com/pr0ved99/TIL/blob/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/docs/verification/10_STM32_Active_DISARM_Shutdown_Latency_Test_Report_2026-08-04_ko.md)
+**[실물 주행 MP4 · 2분 29초](https://raw.githubusercontent.com/pr0ved99/TIL/refs/heads/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/assets/videos/wifi_mvp/2026-10-24/final/TMR_MVP_Final_2026-10-24.mp4)** · [프로젝트와 소스 코드](https://github.com/pr0ved99/TIL/tree/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot) · [정지 명령 후 두 PWM이 꺼지는 23.50 µs의 파형](https://github.com/pr0ved99/TIL/blob/agent/dual-encoder-bringup/Projects/Tracked_Mobile_Robot/docs/verification/10_STM32_Active_DISARM_Shutdown_Latency_Test_Report_2026-08-04_ko.md)
 
 ## 다른 프로젝트
 
